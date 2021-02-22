@@ -1,0 +1,2514 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bucks Co., PA",
+          "Bucks Co. PA",
+          "Bucks Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co., PA"
+      },
+      {
+        "from": [
+          "Albany N.Y.",
+          "Albany, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albany N.Y."
+      },
+      {
+        "from": [
+          "Adams Co., PA",
+          "Adams Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adams Co., PA"
+      },
+      {
+        "from": [
+          "Amsterdam, Holland",
+          "Holland, Amsterdam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Amsterdam, Holland"
+      },
+      {
+        "from": [
+          "Philadelphia",
+          "Philadelphia."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia"
+      },
+      {
+        "from": [
+          "Sussex Co. Delaware",
+          "Sussex Co., Delaware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sussex Co. Delaware"
+      },
+      {
+        "from": [
+          "Carlisle, PA",
+          "Carlisle, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlisle, PA"
+      },
+      {
+        "from": [
+          "Philadelphia Co.",
+          "Philadelphia, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia Co."
+      },
+      {
+        "from": [
+          "Penna.",
+          "Penna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Penna."
+      },
+      {
+        "from": [
+          "Frederick Co, Maryland",
+          "Frederick Co., Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick Co, Maryland"
+      },
+      {
+        "from": [
+          "Lehigh Co.",
+          "Lehigh Co"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lehigh Co."
+      },
+      {
+        "from": [
+          "Mifflin, PA",
+          "Mifflin, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mifflin, PA"
+      },
+      {
+        "from": [
+          "Northampton, PA",
+          "Northampton, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton, PA"
+      },
+      {
+        "from": [
+          "York Co.",
+          "York, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "York Co."
+      },
+      {
+        "from": [
+          "NJ",
+          "N.J."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NJ"
+      },
+      {
+        "from": [
+          "Bucks Co.",
+          "Bucks Co"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co."
+      },
+      {
+        "from": [
+          "Reading, PA",
+          "Reading, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reading, PA"
+      },
+      {
+        "from": [
+          "Lancaster, PA",
+          "Lancaster, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lancaster, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Delaware Co.",
+          "Delware Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delaware Co."
+      },
+      {
+        "from": [
+          "New York",
+          "N. York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New York"
+      },
+      {
+        "from": [
+          "Virginia",
+          "Virgina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Virginia"
+      },
+      {
+        "from": [
+          "Cumberland Co.",
+          "Cumberland Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cumberland Co."
+      },
+      {
+        "from": [
+          "New Hampshire",
+          "N. Hampshire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Hampshire"
+      },
+      {
+        "from": [
+          "Northampton, PA",
+          "Northhampton, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton, PA"
+      },
+      {
+        "from": [
+          "Northampton Co.",
+          "Northampton Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton Co."
+      },
+      {
+        "from": [
+          "Boston",
+          "Boaston"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston"
+      },
+      {
+        "from": [
+          "Wilmington, Delaware",
+          "Wilmington, Dela."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilmington, Delaware"
+      },
+      {
+        "from": [
+          "Huntingdon Co.",
+          "Huntingdon Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huntingdon Co."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wirtemberg, Germany",
+          "Wirtemburg, Germany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirtemberg, Germany"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Montgomery",
+          "Montgomery Co.",
+          "Montgomery, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Montgomery"
+      },
+      {
+        "from": [
+          "Saxony, Germany",
+          "Saxony, Germ."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Saxony, Germany"
+      },
+      {
+        "from": [
+          "Lebanon Co.",
+          "Lebanon Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lebanon Co."
+      },
+      {
+        "from": [
+          "Schuylkill",
+          "Schuylkill Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schuylkill"
+      },
+      {
+        "from": [
+          "Wurtemburg, Germ.",
+          "Wurtemburg, Germany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wurtemburg, Germ."
+      },
+      {
+        "from": [
+          "Harrisburg",
+          "Harrisburgh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harrisburg"
+      },
+      {
+        "from": [
+          "Hanover, Germany",
+          "Hanover, Germ."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hanover, Germany"
+      },
+      {
+        "from": [
+          "Maryland",
+          "W. Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maryland"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "New Jersey",
+          "N. Jersey",
+          "N. Jers."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Jersey"
+      },
+      {
+        "from": [
+          "Chambersburg",
+          "Chambersburg, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chambersburg"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pennsylvania",
+          "Pennsylvania [[Penna]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pennsylvania"
+      },
+      {
+        "from": [
+          "Boston, Mass",
+          "Boston, Massachusetts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston, Mass"
+      },
+      {
+        "from": [
+          "Bradford Co., PA",
+          "W. Bradford Co, Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bradford Co., PA"
+      },
+      {
+        "from": [
+          "Long Island",
+          "Long Island, New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Long Island"
+      },
+      {
+        "from": [
+          "Hartford, CT",
+          "Hartford, Connecticut"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hartford, CT"
+      },
+      {
+        "from": [
+          "Franklin Co.",
+          "Franklin Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franklin Co."
+      },
+      {
+        "from": [
+          "Lycoming Co., PA",
+          "Lycoming, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lycoming Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mulatto, laborer",
+          "Mulatto; Laborer",
+          "Mulatto; laborer",
+          "Laborer, mulatto",
+          "Mulatto, Laborer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto, laborer"
+      },
+      {
+        "from": [
+          "Black; Laborer",
+          "Black, laborer",
+          "black, laborer",
+          "Laborer, Black"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; Laborer"
+      },
+      {
+        "from": [
+          "Black; female",
+          "Black; Female",
+          "Female; Black",
+          "black; female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; female"
+      },
+      {
+        "from": [
+          "Black",
+          "black",
+          "(Black)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black"
+      },
+      {
+        "from": [
+          "Black, blacksmith",
+          "Black; Blacksmith",
+          "black, blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black, blacksmith"
+      },
+      {
+        "from": [
+          "Black; Servant",
+          "Black, Servant",
+          "Black, servant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; Servant"
+      },
+      {
+        "from": [
+          "Blacksmith",
+          "blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blacksmith"
+      },
+      {
+        "from": [
+          "Baker",
+          "baker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baker"
+      },
+      {
+        "from": [
+          "Black, barber",
+          "Black; Barber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black, barber"
+      },
+      {
+        "from": [
+          "Mulatto",
+          "mulatto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto"
+      },
+      {
+        "from": [
+          "Black; Servant; Female",
+          "Female; Servant; Black"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; Servant; Female"
+      },
+      {
+        "from": [
+          "Laborer",
+          "laborer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laborer"
+      },
+      {
+        "from": [
+          "Mulatto; Shoemaker",
+          "Mulatto, shoemaker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto; Shoemaker"
+      },
+      {
+        "from": [
+          "Light mulatto",
+          "light mulatto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Light mulatto"
+      },
+      {
+        "from": [
+          "Mulatto; Blacksmith",
+          "Mulatto; blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto; Blacksmith"
+      },
+      {
+        "from": [
+          "Black shoemaker",
+          "Black, Shoemaker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black shoemaker"
+      },
+      {
+        "from": [
+          "Cabinet Maker",
+          "Cabinet maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cabinet Maker"
+      },
+      {
+        "from": [
+          "Mulatto; Female",
+          "Mulatto; female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto; Female"
+      },
+      {
+        "from": [
+          "House Carpenter",
+          "House carpenter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "House Carpenter"
+      },
+      {
+        "from": [
+          "Mulatto, barber",
+          "Mulatto; Barber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto, barber"
+      },
+      {
+        "from": [
+          "Weaver",
+          "[[Weaver]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Weaver"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Black, brickmaker",
+          "Black; Brick maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black, brickmaker"
+      },
+      {
+        "from": [
+          "Brickmaker",
+          "Brick maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brickmaker"
+      },
+      {
+        "from": [
+          "Gun stock maker",
+          "Gunstock maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gun stock maker"
+      },
+      {
+        "from": [
+          "Millwright",
+          "Mill wright"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Millwright"
+      },
+      {
+        "from": [
+          "Stage driver",
+          "Stagedriver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stage driver"
+      },
+      {
+        "from": [
+          "Stone cutter",
+          "Stonecutter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stone cutter"
+      },
+      {
+        "from": [
+          "Brick layer",
+          "Bricklayer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brick layer"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Merchant",
+          "Marchant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Merchant"
+      },
+      {
+        "from": [
+          "Tobacconist",
+          "Tobbaconist"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tobacconist"
+      },
+      {
+        "from": [
+          "Tailor",
+          "Taylor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tailor"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mulatto or Sambo",
+          "Mulatto; Sambo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto or Sambo"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Circuit court U.S.",
+          "Circuit Court U.S.",
+          "U.S. Circuit Court"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Circuit court U.S."
+      },
+      {
+        "from": [
+          "[[Crim. Sess. Phila.]]",
+          "[[Crim. Sess,. Phila.]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[[Crim. Sess. Phila.]]"
+      },
+      {
+        "from": [
+          "Franklin Co.",
+          "franklin Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franklin Co."
+      },
+      {
+        "from": [
+          "[[PA]]",
+          "PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[[PA]]"
+      },
+      {
+        "from": [
+          "Tioga Co, Pa",
+          "tioga Co, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tioga Co, Pa"
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Delaware Co.",
+          "Delware Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delaware Co."
+      },
+      {
+        "from": [
+          "Northumberland",
+          "Northumberland Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northumberland"
+      },
+      {
+        "from": [
+          "Northern Liberties, Philadelphia",
+          "Northern Liberties"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northern Liberties, Philadelphia"
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Schuylkill Co.",
+          "Schulykill Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schuylkill Co."
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Philadelphia Co.",
+          "Philadelphia city and county"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia Co."
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Age",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Age using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes; drinks; married",
+          "reads and writes, drinks, married",
+          "Reads and writes, drinks, married",
+          "reads and writes; married; drinks",
+          "drinks; married; reads and writes",
+          "reads and writes, married, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; married"
+      },
+      {
+        "from": [
+          "reads and writes, drinks, single",
+          "reads and writes; drinks; single",
+          "Reads and writes, drinks, single",
+          "reads and writes; single; drinks",
+          "reads and writes, drinks , single",
+          "reads and writes, drinks,  single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes; sober; single",
+          "reads and writes, sober, single",
+          "reads and writes; single; sober",
+          "Reads and writes, sober, single",
+          "Reads and writes; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; single"
+      },
+      {
+        "from": [
+          "reads, drinks, single",
+          "reads; drinks; single",
+          "Reads, drinks, single",
+          "Reads, single, drinks",
+          "reads; single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, single"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, single",
+          "Can't read or write, drinks, single",
+          "can't read or write; drinks; single",
+          "Can't read or write, single, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, single"
+      },
+      {
+        "from": [
+          "reads, drinks, married",
+          "reads; drinks; married",
+          "Reads, drinks, married",
+          "Reads; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, married"
+      },
+      {
+        "from": [
+          "Reads and writes a little, drinks, single",
+          "reads and writes a little, single, drinks",
+          "reads and writes a little; single; drinks",
+          "reads and writes; drinks a little; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads and writes a little, drinks, single"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, single",
+          "can't read or write, temperate, single",
+          "Can't read or write, single, temperate",
+          "Can't read or write, temperate,  single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, single"
+      },
+      {
+        "from": [
+          "reads, sober, married",
+          "reads, married, sober",
+          "reads; sober; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, married"
+      },
+      {
+        "from": [
+          "cannot read; drinks; single",
+          "Cannot read; drinks; single",
+          "cannot read; single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; single"
+      },
+      {
+        "from": [
+          "reads, sober, single",
+          "reads; sober; single",
+          "reads; single; sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, single"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; single",
+          "reads and writes, gets drunk, single",
+          "reads and writes; single; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; single"
+      },
+      {
+        "from": [
+          "Can't read, temperate, married",
+          "can't read, married, temperate",
+          "can't read, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, married",
+          "Reads and writes, temperate, married",
+          "reads and writes, married, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, single",
+          "Reads and writes, temperate, single",
+          "reads and writes, single, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, single"
+      },
+      {
+        "from": [
+          "Temperate, single, reads and writes German",
+          "reads and writes German, temperate, single",
+          "reads and writes, german, temperate, Single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Temperate, single, reads and writes German"
+      },
+      {
+        "from": [
+          "reads & writes, gets drunk, single",
+          "reads, writes, gets drunk, single",
+          "reads, writes, single, gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, gets drunk, single"
+      },
+      {
+        "from": [
+          "Can't read or write, married, sober",
+          "Can't read or write, sober, married",
+          "can't read or write, sober, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, married, sober"
+      },
+      {
+        "from": [
+          "reads and writes; drinks; widower",
+          "reads and writes, drinks, widower",
+          "reads and writes, widower, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; widower"
+      },
+      {
+        "from": [
+          "Can't read",
+          "can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read"
+      },
+      {
+        "from": [
+          "reads; got drunk; single",
+          "reads, got drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; got drunk; single"
+      },
+      {
+        "from": [
+          "reads, writes, gets drunk, married",
+          "reads & writes, gets drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes; sober; married",
+          "reads and writes; married; sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; married"
+      },
+      {
+        "from": [
+          "can't read or write, drunk, single",
+          "Can't read or write, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drunk, single"
+      },
+      {
+        "from": [
+          "reads, drank, married",
+          "reads; drank; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drank, married"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; married",
+          "Reads and writes; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; married"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, married",
+          "Can't read or write, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, married"
+      },
+      {
+        "from": [
+          "reads; gets drunk; single",
+          "reads, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; single"
+      },
+      {
+        "from": [
+          "can't read, drinks, single",
+          "can't read, single, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes a little; gets drunk; married",
+          "reads and writes a little; married; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes a little; gets drunk; married"
+      },
+      {
+        "from": [
+          "reads a little; gets drunk; single",
+          "reads a little, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; single",
+          "cannot read, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single",
+          "cannot read or write, drinks, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single"
+      },
+      {
+        "from": [
+          "reads & writes, married, temperate",
+          "reads & writes, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, married, temperate"
+      },
+      {
+        "from": [
+          "reads, writes, drinks, single",
+          "reads & writes, drinks, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes, single",
+          "reads and writes; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, single"
+      },
+      {
+        "from": [
+          "Reads, drunk, married",
+          "reads, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads, drunk, married"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, married",
+          "can't read or write, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, married"
+      },
+      {
+        "from": [
+          "Can't read or write, gets drunk, married",
+          "can't read or write, gets drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes",
+          "Reads and writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes"
+      },
+      {
+        "from": [
+          "reads, temperate, married",
+          "reads, married, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, temperate, married"
+      },
+      {
+        "from": [
+          "reads German; gets drunk; married",
+          "reads; gets drunk; married; reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads German; gets drunk; married"
+      },
+      {
+        "from": [
+          "can't read, sober, single",
+          "Can't read, sober, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, sober, single"
+      },
+      {
+        "from": [
+          "reads and writes; got drunk; single",
+          "Reads and writes, got drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; got drunk; single"
+      },
+      {
+        "from": [
+          "Reads and writes, temperate",
+          "reads and writes; temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads and writes, temperate"
+      },
+      {
+        "from": [
+          "reads and writes; married; drank",
+          "reads and writes; drank; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; married; drank"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single; learned to read",
+          "cannot read or write; single; drinks; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single; learned to read"
+      },
+      {
+        "from": [
+          "Cannot read; drinks; single; reads German",
+          "cannot read; drinks; single; reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; drinks; single; reads German"
+      },
+      {
+        "from": [
+          "reads, writes, sober, married",
+          "reads, writes, married, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, sober, married"
+      },
+      {
+        "from": [
+          "reads; drinks; widow",
+          "reads, drinks, widow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; drinks; widow"
+      },
+      {
+        "from": [
+          "can't read or write, gets drunk, single",
+          "can't read or write; gets drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, gets drunk, single"
+      },
+      {
+        "from": [
+          "reads & writes, drunk, single",
+          "reads, writes, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, drunk, single"
+      },
+      {
+        "from": [
+          "cannot read; drinks; married",
+          "cannot read; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; married"
+      },
+      {
+        "from": [
+          "Can read",
+          "can read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read"
+      },
+      {
+        "from": [
+          "reads & writes German, sober, married",
+          "reads writes German, married, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes German, sober, married"
+      },
+      {
+        "from": [
+          "reads, writes, drinks, married",
+          "reads & writes, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drinks, married"
+      },
+      {
+        "from": [
+          "reads, writes, drunk, married",
+          "reads & writes, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drunk, married"
+      },
+      {
+        "from": [
+          "cannot read or write; gets drunk; single",
+          "cannot read or write, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads, writes, single, temperate",
+          "reads, writes, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, single, temperate"
+      },
+      {
+        "from": [
+          "reads a little, drinks, married",
+          "reads a little; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little, drinks, married"
+      },
+      {
+        "from": [
+          "reads, single, drank",
+          "reads; drank; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, single, drank"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read, drinks, single",
+          "cannot read; drinks; single",
+          "cannot read; drank; single",
+          "cannot read; drink; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, single"
+      },
+      {
+        "from": [
+          "reads, writes, drunk, married",
+          "reads & writes, yet [[drunk]], married",
+          "reads, writes, drink, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drunk, married"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, single",
+          "cannot read or write, temperate, single",
+          "cannot read or write, temperate, single [[4,3 ...]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, single"
+      },
+      {
+        "from": [
+          "can't read, sober, single",
+          "cannot read; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, sober, single"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, married",
+          "cannot read or write; drinks; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, married"
+      },
+      {
+        "from": [
+          "Can't read or write; has learned to read",
+          "Cannot read or write; has learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; has learned to read"
+      },
+      {
+        "from": [
+          "can't read or write, sober, single",
+          "cannot read or write; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, sober, single"
+      },
+      {
+        "from": [
+          "reads a little; sober; single",
+          "reads little, sober, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; sober; single"
+      },
+      {
+        "from": [
+          "Can't read, temperate, single",
+          "cannot read; temperate; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read, temperate, single"
+      },
+      {
+        "from": [
+          "can't read, drinks, married",
+          "cannot read; drinks; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, married"
+      },
+      {
+        "from": [
+          "Can't read or write, gets drunk, married",
+          "Cannot read or write; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, gets drunk, married"
+      },
+      {
+        "from": [
+          "cannot read or write; gets drunk; single",
+          "can't read or write, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; gets drunk; single"
+      },
+      {
+        "from": [
+          "Can't read or write, married",
+          "cannot read or write; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, married",
+          "reads and wirtes, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, married"
+      },
+      {
+        "from": [
+          "can't read or write, drunk, married",
+          "cannot read or write, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drunk, married"
+      },
+      {
+        "from": [
+          "reads, writes, drink, widower",
+          "reads, writes, drunk, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drink, widower"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; single",
+          "can't read, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single; learned to read",
+          "can't read or write; drinks; single; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single; learned to read"
+      },
+      {
+        "from": [
+          "Can't read or write",
+          "Cannot read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write"
+      },
+      {
+        "from": [
+          "Can't read; has learned in prison",
+          "Cannot read; has learned in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read; has learned in prison"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "grel:value.replace(\",\", \";\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ColumnNote using expression grel:value.replace(\",\", \";\")"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "guessCellType": true,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column ColumnNote by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 1",
+    "newColumnName": "Literacy",
+    "description": "Rename column ColumnNote 1 to Literacy"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 2",
+    "newColumnName": "Sobriety",
+    "description": "Rename column ColumnNote 2 to Sobriety"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 3",
+    "newColumnName": "Marriage Status",
+    "description": "Rename column ColumnNote 3 to Marriage Status"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ColumnNote 6",
+    "description": "Remove column ColumnNote 6"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "ColumnNote 4",
+    "expression": "grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Extra",
+    "columnInsertIndex": 16,
+    "description": "Create column Extra at index 16 based on column ColumnNote 4 using expression grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "ColumnNote 4",
+    "expression": "grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Extra 2",
+    "columnInsertIndex": 16,
+    "description": "Create column Extra 2 at index 16 based on column ColumnNote 4 using expression grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Extra 2",
+    "description": "Remove column Extra 2"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sobriety using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Literacy using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Literacy using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Marriage Status using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "expression": "grel:value.replace(\",\", \";\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column EthnicityReligionOccupation using expression grel:value.replace(\",\", \";\")"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "guessCellType": true,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column EthnicityReligionOccupation by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "EthnicityReligionOccupation",
+    "newColumnName": "Ethnicity",
+    "description": "Rename column EthnicityReligionOccupation to Ethnicity"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "EthnicityReligionOccupation 1",
+    "newColumnName": "Occupation",
+    "description": "Rename column EthnicityReligionOccupation 1 to Occupation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Ethnicity",
+    "newColumnName": "EthnicityReligionOccupation",
+    "description": "Rename column Ethnicity to EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Occupation",
+    "newColumnName": "Ethnicity",
+    "description": "Rename column Occupation to Ethnicity"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "EthnicityReligionOccupation 2",
+    "newColumnName": "Occupation",
+    "description": "Rename column EthnicityReligionOccupation 2 to Occupation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "EthnicityReligionOccupation 3",
+    "newColumnName": "Religion",
+    "description": "Rename column EthnicityReligionOccupation 3 to Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stone cutter",
+          "Stone Cutter",
+          " Stone cutter",
+          " stone cutter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stone cutter"
+      },
+      {
+        "from": [
+          "Carpenter",
+          " Carpenter",
+          " carpenter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carpenter"
+      },
+      {
+        "from": [
+          "Blacksmith",
+          " Blacksmith",
+          " blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blacksmith"
+      },
+      {
+        "from": [
+          "Sailor",
+          " Sailor",
+          " sailor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sailor"
+      },
+      {
+        "from": [
+          " barber",
+          "Barber",
+          " Barber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " barber"
+      },
+      {
+        "from": [
+          "Laborer",
+          " Laborer",
+          " laborer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laborer"
+      },
+      {
+        "from": [
+          "Shoemaker",
+          " Shoemaker",
+          "shoemaker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Shoemaker"
+      },
+      {
+        "from": [
+          "Weaver",
+          " Weaver",
+          " weaver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Weaver"
+      },
+      {
+        "from": [
+          "Boatman",
+          " boatman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boatman"
+      },
+      {
+        "from": [
+          " hostler",
+          "Hostler"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " hostler"
+      },
+      {
+        "from": [
+          "Brickmaker",
+          " brickmaker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brickmaker"
+      },
+      {
+        "from": [
+          "Baker",
+          " baker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baker"
+      },
+      {
+        "from": [
+          "Seaman",
+          " seaman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seaman"
+      },
+      {
+        "from": [
+          " Servant",
+          "Servant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " Servant"
+      },
+      {
+        "from": [
+          "Stage driver",
+          "Stage Driver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stage driver"
+      },
+      {
+        "from": [
+          "Waterman",
+          "waterman "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waterman"
+      },
+      {
+        "from": [
+          " forgeman",
+          "Forgeman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " forgeman"
+      },
+      {
+        "from": [
+          "Cabinet Maker",
+          " cabinet maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cabinet Maker"
+      },
+      {
+        "from": [
+          "Wheelwright",
+          " wheelwright"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wheelwright"
+      },
+      {
+        "from": [
+          " Female",
+          " female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " Female"
+      },
+      {
+        "from": [
+          "Plasterer",
+          " plasterer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plasterer"
+      },
+      {
+        "from": [
+          "Stone Mason",
+          " Stone mason"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stone Mason"
+      },
+      {
+        "from": [
+          "Cooper",
+          " cooper"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cooper"
+      },
+      {
+        "from": [
+          " ostler",
+          "Ostler"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " ostler"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Ethnicity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "German",
+          "German  "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "German"
+      },
+      {
+        "from": [
+          "Light mulatto",
+          " light mulatto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Light mulatto"
+      },
+      {
+        "from": [
+          "Female",
+          "female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Female"
+      },
+      {
+        "from": [
+          "Black",
+          "Black "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black"
+      },
+      {
+        "from": [
+          "Mulatto",
+          " mulatto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto"
+      }
+    ],
+    "description": "Mass edit cells in column Ethnicity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Irish Catholic",
+          " Irish Catholic",
+          "Irish Catholic "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Irish Catholic"
+      },
+      {
+        "from": [
+          "Catholic",
+          " Catholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catholic"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Ethnicity",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Ethnicity using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Occupation using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Religion using expression value.trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Female",
+                "l": "Female"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Gender",
+    "columnInsertIndex": 6,
+    "description": "Create column Gender at index 6 based on column Occupation using expression grel:value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Gender",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Gender using expression value.trim()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "EthnicityReligionOccupation",
+    "description": "Remove column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "AdmissionDate",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AdmissionDate using expression value.toDate()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Months at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:sum([value * 12, cells.Months.value])",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentencing in Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Sentencing in Months at index 13 based on column Sentencing using expression grel:sum([value * 12, cells.Months.value])"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(yr+)/).join(\"\").replace(\"yr\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Number Preceding Year",
+    "columnInsertIndex": 13,
+    "description": "Create column Number Preceding Year at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(yr+)/).join(\"\").replace(\"yr\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Number Preceding Year",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Number Preceding Year using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Sentencing in Months",
+    "description": "Remove column Sentencing in Months"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Number Preceding Year",
+    "expression": "grel:sum([value * 12, cells.Months.value])",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentence in Months",
+    "columnInsertIndex": 14,
+    "description": "Create column Sentence in Months at index 14 based on column Number Preceding Year using expression grel:sum([value * 12, cells.Months.value])"
+  }
+]
